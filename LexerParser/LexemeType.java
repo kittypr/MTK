@@ -1,0 +1,3 @@
+public enum LexemeType {
+    PLUS, MINUS, ASTERISK, SLASH, CARET, LEFT_PAREN, RIGHT_PAREN, NUMBER, EOF
+}
